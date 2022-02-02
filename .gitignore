@@ -1,3 +1,5 @@
 !CMakeLists.txt
 minishell
 build
+*.o
+*.a
